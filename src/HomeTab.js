@@ -5,7 +5,7 @@ export default function HomeTab() {
     <header className="App-header">
       <div className="App-title">
         <h1>
-          SHIPTIVITAS
+          SHIPTIVITAS-CSM
         </h1>
         <div className="App-icon">
           <div className="Circle"></div>

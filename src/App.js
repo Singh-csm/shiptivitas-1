@@ -12,6 +12,7 @@ class App extends Component {
       selectedTab: 'home',
     };
   }
+  
   renderShippingRequests() {
     return (<Board />);
   }
